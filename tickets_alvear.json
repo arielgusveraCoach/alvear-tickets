@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ALV-1043",
+    "fecha": "2026-10-28T15:51:00.000Z",
+    "titulo": "Pedido de alta en sistema - Panadería Alvear",
+    "descripcion": "Solicitud de alta de productos: Proveedor Quality - Mangas descartables Parpen núm. 23 .... 50 unidades $35702.48 | Proveedor Disa higiene - Detergente neutro multipropósito 5 LTS $13013.79. Mail de Panadería Alvear a Sistemas y Catalogación. Pendiente de alta en Presea / Sistema.",
+    "solicitante": "Panadería Alvear",
+    "sucursal": "Panadería / Central",
+    "sistema": "Presea / Catalogación",
+    "estado": "Pendiente",
+    "prioridad": "Media",
+    "origen": "Mail",
+    "contacto": "panaderia@alvearsupermercados.com.ar",
+    "telIp": "",
+    "historial": [
+      {
+        "fecha": "2026-10-28T15:51:00.000Z",
+        "usuario": "Panadería Alvear",
+        "evento": "Pedido original - alta de 2 productos"
+      },
+      {
+        "fecha": "2026-11-01T17:16:08.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: Pedido de alta en sistema"
+      },
+      {
+        "fecha": "2026-11-01T12:33:19.618788Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1043 - pendiente alta en sistema"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1042",
+    "fecha": "2024-12-10T09:15:00.000Z",
+    "titulo": "S11 lento - Juan Alda",
+    "descripcion": "AOL tarda 3 min en abrir remitos. Sucursales S11 y S12. Posible lock base. Reportado por Juan Alda - track S11 S12 AOL.",
+    "solicitante": "Juan Alda",
+    "sucursal": "S11 / S12",
+    "sistema": "AOL",
+    "estado": "Descartado",
+    "prioridad": "Alta",
+    "origen": "WhatsApp",
+    "contacto": "Juan Alda - 11 5555 2011",
+    "telIp": "10.11.12.42 / 192.168.11.42",
+    "historial": [
+      {
+        "fecha": "2024-12-10T09:15:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Ticket creado en Bandeja Alvear - S11 S12 AOL"
+      },
+      {
+        "fecha": "2024-12-10T09:22:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Rastreo: validado lock en base AOL remitos S11/S12"
+      },
+      {
+        "fecha": "2026-11-01T20:28:48.271Z",
+        "usuario": "Ariel",
+        "evento": "Descartado/Borrado por Ariel - movido a papelera"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1038",
+    "fecha": "2024-12-09T16:40:00.000Z",
+    "titulo": "S10 caja 4 no cierra lote",
+    "descripcion": "Caja 4 Suc S10 no cierra lote Presea. Error POSManager transacción 1048. Requiere regeneración archivo cierre.",
+    "solicitante": "Caja S10",
+    "sucursal": "S10",
+    "sistema": "Presea",
+    "estado": "Descartado",
+    "prioridad": "Alta",
+    "origen": "Tel",
+    "contacto": "Encargado S10",
+    "telIp": "10.10.10.104",
+    "historial": [
+      {
+        "fecha": "2024-12-09T16:40:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Creado - caja 4 S10"
+      },
+      {
+        "fecha": "2024-12-09T17:05:00.000Z",
+        "usuario": "Ariel",
+        "evento": "En Proceso - revisando log POSManager"
+      },
+      {
+        "fecha": "2026-11-01T20:28:03.857Z",
+        "usuario": "Ariel",
+        "evento": "Descartado/Borrado por Ariel - movido a papelera"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1040",
+    "fecha": "2024-12-09T11:20:00.000Z",
+    "titulo": "Presea precios desactualizados S05",
+    "descripcion": "Presea no actualiza precios desde central. Suc S05, S06. Transmisión pendiente, revisar generación archivo.",
+    "solicitante": "Gerencia",
+    "sucursal": "S05 / S06",
+    "sistema": "Presea",
+    "estado": "Descartado",
+    "prioridad": "Media",
+    "origen": "Mail",
+    "contacto": "gerencia@alvear.com",
+    "telIp": "10.5.0.1",
+    "historial": [
+      {
+        "fecha": "2024-12-09T11:20:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Creado - precios"
+      },
+      {
+        "fecha": "2024-12-09T12:00:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Estado cambiado a En Espera - esperando confirmación central"
+      },
+      {
+        "fecha": "2026-11-01T20:28:10.377Z",
+        "usuario": "Ariel",
+        "evento": "Descartado/Borrado por Ariel - movido a papelera"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1039",
+    "fecha": "2024-12-08T14:05:00.000Z",
+    "titulo": "S11 impresora tickets atascada",
+    "descripcion": "Impresora Epson TM-T20 S11 atasco papel, driver reinstalado, sigue error. No es hardware básico - derivar solo si es Presea/AOL.",
+    "solicitante": "S11 Mostrador",
+    "sucursal": "S11",
+    "sistema": "Hardware Caja",
+    "estado": "Resuelto",
+    "prioridad": "Baja",
+    "origen": "Presencial",
+    "contacto": "S11",
+    "telIp": "10.11.0.20",
+    "historial": [
+      {
+        "fecha": "2024-12-08T14:05:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Creado S11 impresora"
+      },
+      {
+        "fecha": "2024-12-08T15:30:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Resuelto - limpieza y test OK"
+      }
+    ]
+  },
+  {
+    "id": "ALV-2026-011",
+    "sucursal": "S11",
+    "titulo": "Sistema lento S11",
+    "descripcion": "Juan Alda reporta lentitud extrema en S11 Carga de precios demora > 40s. Afecta facturación.",
+    "contacto": "Juan Alda",
+    "origen": "Mail",
+    "telIp": "10.0.11.5 / 10.0.12.8",
+    "estado": "Pendiente",
+    "prioridad": "Baja",
+    "tipo": "Sistema",
+    "historial": [
+      {
+        "id": "h1",
+        "timestamp": "09:10",
+        "from": "Creado",
+        "to": "Pendiente",
+        "actor": "Bandeja",
+        "note": "Mail detectado"
+      },
+      {
+        "id": "h2",
+        "timestamp": "09:12",
+        "from": "Pendiente",
+        "to": "Pendiente",
+        "actor": "Sistema",
+        "note": "Prioridad Alta asignada"
+      },
+      {
+        "fecha": "2026-11-01T20:27:36.920Z",
+        "usuario": "Ariel",
+        "evento": "Editado por Ariel (modal): titulo: \"Sistema lento AOL\" -> \"Sistema lento S11\" | descripcion: \"Juan Alda reporta lentitud extrema en Pr\" -> \"Juan Alda reporta lentitud extrema en S1\""
+      }
+    ]
+  },
+  {
+    "id": "ALV-2026-010",
+    "sucursal": "S10",
+    "titulo": "S10 Caja 4 sin comunicación y no responde a comandos de reinicio",
+    "descripcion": "Se solucionó con el reinicio desde ctc, tienen que mantener el boton apretado hasta que lo hace.",
+    "contacto": "Encargado S10",
+    "origen": "Mail",
+    "telIp": "10.0.10.4 / 192.168.10.44",
+    "estado": "Resuelto",
+    "prioridad": "Alta",
+    "tipo": "Caja",
+    "historial": [
+      {
+        "id": "h3",
+        "timestamp": "08:45",
+        "from": "Creado",
+        "to": "Pendiente",
+        "actor": "Bandeja"
+      },
+      {
+        "id": "h4",
+        "timestamp": "10:15",
+        "from": "Pendiente",
+        "to": "En Proceso",
+        "actor": "Ariel",
+        "note": "CTC reinicio en curso"
+      },
+      {
+        "id": "h_1793560829456",
+        "timestamp": "04:20 p. m.",
+        "from": "En Proceso",
+        "to": "Resuelto",
+        "actor": "Ariel"
+      },
+      {
+        "fecha": "2026-11-01T20:29:24.760Z",
+        "usuario": "Ariel",
+        "evento": "Editado por Ariel (modal): titulo: \"Caja 4 sin comunicación y no responde a \" -> \"S10 Caja 4 sin comunicación y no respond\""
+      }
+    ]
+  },
+  {
+    "id": "ALV-2026-009",
+    "sucursal": "S14",
+    "titulo": "S14 Caja 2 no imprime tickets",
+    "descripcion": "Impresora térmica Epson TM-T20 sin respuesta. Luz roja parpadeante. Rollos OK.",
+    "contacto": "Caja 2 S14",
+    "origen": "Whatsapp",
+    "telIp": "10.0.14.2",
+    "estado": "Resuelto",
+    "prioridad": "Media",
+    "tipo": "Impresora",
+    "historial": [
+      {
+        "id": "h8",
+        "timestamp": "09:45",
+        "from": "Creado",
+        "to": "Pendiente",
+        "actor": "Whatsapp Bot"
+      },
+      {
+        "fecha": "2026-11-01T20:26:31.166Z",
+        "usuario": "Ariel",
+        "evento": "Estado cambiado a Resuelto por Ariel"
+      }
+    ]
+  }
+]
