@@ -1,5 +1,36 @@
 [
   {
+    "id": "ALV-1044",
+    "fecha": "2026-10-27T15:25:00.000Z",
+    "titulo": "ALVEAR DAYS - 100% productos cargados 2 al 8-11",
+    "descripcion": "Javier Tuduri informa que quedó pasado el 100% de productos para Alvear Days del 2 al 8-11. Solicita que cuando esté archivo final cargado se envíe a Gabriel Ojeda y Juan Cruz Alda para pedido de mercadería con tiempo. Reenviado desde avera@ a carpeta Alvear.",
+    "solicitante": "Javier Tuduri",
+    "sucursal": "Central / Compras",
+    "sistema": "Presea / Ofertas",
+    "estado": "Pendiente",
+    "prioridad": "Media",
+    "origen": "Mail",
+    "contacto": "jtuduri@alvearsupermercados.com.ar",
+    "telIp": "",
+    "historial": [
+      {
+        "fecha": "2026-10-27T15:25:00.000Z",
+        "usuario": "Javier Tuduri",
+        "evento": "100% productos Alvear Days cargados"
+      },
+      {
+        "fecha": "2026-11-01T18:00:26.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: ALVEAR DAYS"
+      },
+      {
+        "fecha": "2026-11-01T13:01:13.621738Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1044 - pendiente archivo final"
+      }
+    ]
+  },
+  {
     "id": "ALV-1043",
     "fecha": "2026-10-28T15:51:00.000Z",
     "titulo": "Pedido de alta en sistema - Panadería Alvear",
