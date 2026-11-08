@@ -3,11 +3,11 @@
     "id": "ALV-1048",
     "fecha": "2026-11-05T15:24:00.000Z",
     "titulo": "LENTITUD - Computadora de Escritorio - Tomas Andrada",
-    "descripcion": "Tomas Andrada pide ver su computadora de oficina, por momentos imposible de usar, muy lenta. Javier Tuduri agrega que mañana (6-nov) Tomas no viene, así que pueden disponer del día para revisarla con tranquilidad y que cuando retome la tenga en condiciones. Reenviado desde avera@ a carpeta Alvear 06/11 13:05.",
+    "descripcion": "RESUELTO 06/11/2026 por Ariel: Revisada PC de Tomas Andrada. Chrome tenía 21 pestañas abiertas consumiendo casi 2,2 GB de RAM en un solo proceso. Equipo: Intel i5-8400T, SSD 240 GB (~106 GB libres), RAM ampliada a 12 GB. Se liberaron procesos innecesarios en segundo plano. Recomendado: cerrar pestañas no usadas / usar marcadores o suspender pestañas, y reiniciar PC al menos 1 vez al día al finalizar jornada. SSD en buen estado.",
     "solicitante": "Tomas Andrada",
     "sucursal": "Central / Oficina",
     "sistema": "Hardware / PC Escritorio",
-    "estado": "Pendiente",
+    "estado": "Resuelto",
     "prioridad": "Alta",
     "origen": "Mail",
     "contacto": "tandrada@alvearsupermercados.com.ar",
@@ -32,6 +32,16 @@
         "fecha": "2026-11-08T14:52:01.755689Z",
         "usuario": "Ariel",
         "evento": "Convertido en ticket ALV-1048 - pendiente revisión PC"
+      },
+      {
+        "fecha": "2026-11-06T13:23:00.000Z",
+        "usuario": "Ariel",
+        "evento": "RESUELTO - Respuesta enviada a Javier Tuduri, Tomas Andrada y Sistemas: RAM ampliada a 12 GB, procesos liberados, recomendaciones Chrome / reinicio diario"
+      },
+      {
+        "fecha": "2026-11-08T15:16:25.898505Z",
+        "usuario": "Ariel",
+        "evento": "Actualizado a Resuelto en JSON - respuesta reenviada 08/11 20:14 desde avera@ a carpeta Alvear"
       }
     ]
   },
