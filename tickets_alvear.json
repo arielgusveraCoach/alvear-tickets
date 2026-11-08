@@ -1,5 +1,134 @@
 [
   {
+    "id": "ALV-1048",
+    "fecha": "2026-11-05T15:24:00.000Z",
+    "titulo": "LENTITUD - Computadora de Escritorio - Tomas Andrada",
+    "descripcion": "Tomas Andrada pide ver su computadora de oficina, por momentos imposible de usar, muy lenta. Javier Tuduri agrega que mañana (6-nov) Tomas no viene, así que pueden disponer del día para revisarla con tranquilidad y que cuando retome la tenga en condiciones. Reenviado desde avera@ a carpeta Alvear 06/11 13:05.",
+    "solicitante": "Tomas Andrada",
+    "sucursal": "Central / Oficina",
+    "sistema": "Hardware / PC Escritorio",
+    "estado": "Pendiente",
+    "prioridad": "Alta",
+    "origen": "Mail",
+    "contacto": "tandrada@alvearsupermercados.com.ar",
+    "telIp": "",
+    "historial": [
+      {
+        "fecha": "2026-11-05T15:24:00.000Z",
+        "usuario": "Tomas Andrada",
+        "evento": "Pedido original - computadora de escritorio muy lenta, por momentos imposible de usar"
+      },
+      {
+        "fecha": "2026-11-05T16:52:00.000Z",
+        "usuario": "Javier Tuduri",
+        "evento": "Agrega que mañana Tomas no viene, pueden disponer del día para revisarla"
+      },
+      {
+        "fecha": "2026-11-06T13:05:00.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: LENTITUD - Computadora de Escritorio"
+      },
+      {
+        "fecha": "2026-11-08T14:52:01.755689Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1048 - pendiente revisión PC"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1045",
+    "fecha": "2026-11-05T14:12:00.000Z",
+    "titulo": "SOLICITUD DE TICKET 192708 - Suc. Alvear - $78.641,98",
+    "descripcion": "Suc. Alvear (Florencia) solicita ticket n° 192708 del día 08/10/26 de $78.641,98 correspondiente a caja n° 6 PV 233. Cajero BEILIS SOLANGE. Letra T - 0233-00192708 - Forma pago Transferencias $78.641,98. Fue cortado en caja como transferencia. Reenviado desde avera@ a carpeta Alvear 06/11 09:51.",
+    "solicitante": "Suc. Alvear - Florencia",
+    "sucursal": "S01 Alvear",
+    "sistema": "Presea / Ticket",
+    "estado": "Pendiente",
+    "prioridad": "Alta",
+    "origen": "Mail",
+    "contacto": "sucursal1@alvearsupermercados.com.ar",
+    "telIp": "Caja 6 PV 233",
+    "historial": [
+      {
+        "fecha": "2026-11-05T14:12:00.000Z",
+        "usuario": "Suc. Alvear",
+        "evento": "Pedido original - ticket 192708 08/10/26"
+      },
+      {
+        "fecha": "2026-11-06T09:51:02.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: SOLICITUD DE TICKET"
+      },
+      {
+        "fecha": "2026-11-06T04:58:01.130406Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1045 - pendiente reimpresión / verificación ticket"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1046",
+    "fecha": "2026-11-03T08:56:00.000Z",
+    "titulo": "CLAVE - Cajero Ramirez Camila - Recoleta - reingreso",
+    "descripcion": "Suc. Recoleta solicita clave de cajero para RAMIREZ CAMILA, colaboradora que reingresa a la empresa nuevamente. Solicitado por Jorgelina. Reenviado desde avera@ a carpeta Alvear 06/11 09:51.",
+    "solicitante": "Suc. Recoleta - Jorgelina",
+    "sucursal": "S11 Recoleta",
+    "sistema": "Presea / Cajeros",
+    "estado": "Pendiente",
+    "prioridad": "Alta",
+    "origen": "Mail",
+    "contacto": "sucursal11@alvearsupermercados.com.ar",
+    "telIp": "",
+    "historial": [
+      {
+        "fecha": "2026-11-03T08:56:00.000Z",
+        "usuario": "Suc. Recoleta",
+        "evento": "Pedido original - clave Ramirez Camila reingreso"
+      },
+      {
+        "fecha": "2026-11-06T09:51:21.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: CLAVE"
+      },
+      {
+        "fecha": "2026-11-06T04:58:01.130403Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1046 - pendiente asignar clave cajero"
+      }
+    ]
+  },
+  {
+    "id": "ALV-1047",
+    "fecha": "2026-11-05T09:32:00.000Z",
+    "titulo": "Computadora depósito - no imprime carteles Clientazo",
+    "descripcion": "Carlos Yossen solicita ver computadora de depósito: quieren imprimir carteles de Clientazo que mandan por correo y no pueden porque salen mal configurados, en la de oficina sí salen bien. Reenviado desde avera@ a carpeta Alvear 06/11 09:46.",
+    "solicitante": "Carlos Yossen",
+    "sucursal": "Depósito",
+    "sistema": "Hardware / Impresión",
+    "estado": "Pendiente",
+    "prioridad": "Media",
+    "origen": "Mail",
+    "contacto": "cyossen@antoniazzihermanos.onmicrosoft.com",
+    "telIp": "",
+    "historial": [
+      {
+        "fecha": "2026-11-05T09:32:00.000Z",
+        "usuario": "Carlos Yossen",
+        "evento": "Pedido original - computadora depósito carteles Clientazo"
+      },
+      {
+        "fecha": "2026-11-06T09:46:07.000Z",
+        "usuario": "Ariel",
+        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: Computadora depósito"
+      },
+      {
+        "fecha": "2026-11-06T04:58:01.130396Z",
+        "usuario": "Ariel",
+        "evento": "Convertido en ticket ALV-1047 - pendiente revisión configuración impresión"
+      }
+    ]
+  },
+  {
     "id": "ALV-1044",
     "fecha": "2026-10-27T15:25:00.000Z",
     "titulo": "ALVEAR DAYS - 100% productos cargados 2 al 8-11",
