@@ -1,8 +1,76 @@
 {
-  "exportado": "2026-11-10T14:18:54.499Z",
-  "version": "V11",
-  "total": 15,
+  "exportado": "2026-11-10T17:30:00.000Z",
+  "version": "V12",
+  "total": 19,
   "tickets": [
+    {
+      "id": "ALV-2026-1059",
+      "status": "Pendiente",
+      "title": "Demora en cierre de tickets > $150.000 en todas las cajas - luego de Subtotal y método de pago",
+      "branch": "Todas / Santo Tomé",
+      "system": "Selec / Cajas registradoras / Presea",
+      "origin": "Reporte en caja",
+      "requester": "Sistemas - Ariel Vera",
+      "priority": "Crítica",
+      "description": "Demora generalizada en TODAS las cajas al finalizar el ticket, luego de apretar SUBTOTAL e ingresar el MÉTODO DE PAGO. Tickets menores a $150.000 cierran normal, tickets mayores quedan procesando mucho más tiempo antes de imprimir. No es una caja puntual. Solicitado a Selec diagnóstico de: proceso de cierre para montos > $150.000, validación/autorización por método de pago, comunicación caja-servidor-sistema, cola/spool/journal, base de datos (purga/reindexación con backup previo), regla de negocio activa desde $150.000 (datos cliente, CUIT/DNI, tope, autorización). Pendiente verificar si depende del método de pago (efectivo/tarjeta/QR) y corte exacto en $150.000 / $150.001.",
+      "history": [
+        {
+          "date": "10/11, 2:30 p. m.",
+          "text": "Ticket ingresado. Reporte inicial a Selec con medición y pruebas a realizar."
+        }
+      ]
+    },
+    {
+      "id": "ALV-2026-1060",
+      "status": "Resuelto",
+      "title": "Impresora depósito no imprime - Carlos Yossen",
+      "branch": "Depósito",
+      "system": "Hardware / Impresión",
+      "origin": "Mail",
+      "requester": "Carlos Yossen",
+      "priority": "Alta",
+      "description": "Impresora del depósito no pudieron hacerla andar en todo el fin de semana. Resuelto por comunicación telefónica: en la configuración de la impresora estaba tildada la opción 'Imprimir sin Conexión'. Se destildó y volvió a imprimir con normalidad. Regla para la próxima: Impresora no imprime > verificar primero 'Imprimir sin Conexión' antes de pedir visita técnica.",
+      "history": [
+        {
+          "date": "10/11, 2:30 p. m.",
+          "text": "Solucionado por teléfono. Destildado 'Imprimir sin Conexión'. En monitoreo."
+        }
+      ]
+    },
+    {
+      "id": "ALV-2026-1061",
+      "status": "Pendiente",
+      "title": "Solicitud de teclado y cabezal - Suc. Alvear - Cajas 3, 5 y 10",
+      "branch": "S01 Alvear",
+      "system": "Hardware / Cajas",
+      "origin": "Mail",
+      "requester": "Suc. Alvear - Daniela",
+      "priority": "Media",
+      "description": "Solicita cabezal para caja 3 (adjunta foto), teclado para caja 5 (no funciona tecla N°3 y se sale la tecla de pago efectivo) y teclado para caja 10 (no funciona tecla N°1 y tecla N°5).",
+      "history": [
+        {
+          "date": "10/11, 11:57 a. m.",
+          "text": "Ticket ingresado desde mail carpeta Alvear."
+        }
+      ]
+    },
+    {
+      "id": "ALV-2026-1062",
+      "status": "Pendiente",
+      "title": "Cambio cargador celulares capturadores - Suc. Recoleta",
+      "branch": "S11 Recoleta",
+      "system": "Hardware / Capturadores",
+      "origin": "Mail",
+      "requester": "Suc. Recoleta - Agustín",
+      "priority": "Media",
+      "description": "Se solicita cambio de cargador para los celulares capturadores ya que dejó de funcionar el puerto de energía. Ficha Tipo C la salida. Respondido que se envía el cargador a la brevedad.",
+      "history": [
+        {
+          "date": "10/11, 12:21 p. m.",
+          "text": "Ticket ingresado desde mail carpeta Alvear. Pendiente envío de cargador Tipo C."
+        }
+      ]
+    },
     {
       "id": "ALV-2026-1058",
       "status": "Pendiente",
