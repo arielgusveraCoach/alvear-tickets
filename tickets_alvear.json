@@ -1,424 +1,207 @@
-[
-  {
-    "id": "ALV-1048",
-    "fecha": "2026-11-05T15:24:00.000Z",
-    "titulo": "LENTITUD - Computadora de Escritorio - Tomas Andrada",
-    "descripcion": "RESUELTO 06/11/2026 por Ariel: Revisada PC de Tomas Andrada. Chrome tenía 21 pestañas abiertas consumiendo casi 2,2 GB de RAM en un solo proceso. Equipo: Intel i5-8400T, SSD 240 GB (~106 GB libres), RAM ampliada a 12 GB. Se liberaron procesos innecesarios en segundo plano. Recomendado: cerrar pestañas no usadas / usar marcadores o suspender pestañas, y reiniciar PC al menos 1 vez al día al finalizar jornada. SSD en buen estado.",
-    "solicitante": "Tomas Andrada",
-    "sucursal": "Central / Oficina",
-    "sistema": "Hardware / PC Escritorio",
-    "estado": "Resuelto",
-    "prioridad": "Alta",
-    "origen": "Mail",
-    "contacto": "tandrada@alvearsupermercados.com.ar",
-    "telIp": "",
-    "historial": [
-      {
-        "fecha": "2026-11-05T15:24:00.000Z",
-        "usuario": "Tomas Andrada",
-        "evento": "Pedido original - computadora de escritorio muy lenta, por momentos imposible de usar"
-      },
-      {
-        "fecha": "2026-11-05T16:52:00.000Z",
-        "usuario": "Javier Tuduri",
-        "evento": "Agrega que mañana Tomas no viene, pueden disponer del día para revisarla"
-      },
-      {
-        "fecha": "2026-11-06T13:05:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: LENTITUD - Computadora de Escritorio"
-      },
-      {
-        "fecha": "2026-11-08T14:52:01.755689Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1048 - pendiente revisión PC"
-      },
-      {
-        "fecha": "2026-11-06T13:23:00.000Z",
-        "usuario": "Ariel",
-        "evento": "RESUELTO - Respuesta enviada a Javier Tuduri, Tomas Andrada y Sistemas: RAM ampliada a 12 GB, procesos liberados, recomendaciones Chrome / reinicio diario"
-      },
-      {
-        "fecha": "2026-11-08T15:16:25.898505Z",
-        "usuario": "Ariel",
-        "evento": "Actualizado a Resuelto en JSON - respuesta reenviada 08/11 20:14 desde avera@ a carpeta Alvear"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1045",
-    "fecha": "2026-11-05T14:12:00.000Z",
-    "titulo": "SOLICITUD DE TICKET 192708 - Suc. Alvear - $78.641,98",
-    "descripcion": "Suc. Alvear (Florencia) solicita ticket n° 192708 del día 08/10/26 de $78.641,98 correspondiente a caja n° 6 PV 233. Cajero BEILIS SOLANGE. Letra T - 0233-00192708 - Forma pago Transferencias $78.641,98. Fue cortado en caja como transferencia. Reenviado desde avera@ a carpeta Alvear 06/11 09:51.",
-    "solicitante": "Suc. Alvear - Florencia",
-    "sucursal": "S01 Alvear",
-    "sistema": "Presea / Ticket",
-    "estado": "Pendiente",
-    "prioridad": "Alta",
-    "origen": "Mail",
-    "contacto": "sucursal1@alvearsupermercados.com.ar",
-    "telIp": "Caja 6 PV 233",
-    "historial": [
-      {
-        "fecha": "2026-11-05T14:12:00.000Z",
-        "usuario": "Suc. Alvear",
-        "evento": "Pedido original - ticket 192708 08/10/26"
-      },
-      {
-        "fecha": "2026-11-06T09:51:02.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: SOLICITUD DE TICKET"
-      },
-      {
-        "fecha": "2026-11-06T04:58:01.130406Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1045 - pendiente reimpresión / verificación ticket"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1046",
-    "fecha": "2026-11-03T08:56:00.000Z",
-    "titulo": "CLAVE - Cajero Ramirez Camila - Recoleta - reingreso",
-    "descripcion": "Suc. Recoleta solicita clave de cajero para RAMIREZ CAMILA, colaboradora que reingresa a la empresa nuevamente. Solicitado por Jorgelina. Reenviado desde avera@ a carpeta Alvear 06/11 09:51.",
-    "solicitante": "Suc. Recoleta - Jorgelina",
-    "sucursal": "S11 Recoleta",
-    "sistema": "Presea / Cajeros",
-    "estado": "Pendiente",
-    "prioridad": "Alta",
-    "origen": "Mail",
-    "contacto": "sucursal11@alvearsupermercados.com.ar",
-    "telIp": "",
-    "historial": [
-      {
-        "fecha": "2026-11-03T08:56:00.000Z",
-        "usuario": "Suc. Recoleta",
-        "evento": "Pedido original - clave Ramirez Camila reingreso"
-      },
-      {
-        "fecha": "2026-11-06T09:51:21.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: CLAVE"
-      },
-      {
-        "fecha": "2026-11-06T04:58:01.130403Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1046 - pendiente asignar clave cajero"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1047",
-    "fecha": "2026-11-05T09:32:00.000Z",
-    "titulo": "Computadora depósito - no imprime carteles Clientazo",
-    "descripcion": "Carlos Yossen solicita ver computadora de depósito: quieren imprimir carteles de Clientazo que mandan por correo y no pueden porque salen mal configurados, en la de oficina sí salen bien. Reenviado desde avera@ a carpeta Alvear 06/11 09:46.",
-    "solicitante": "Carlos Yossen",
-    "sucursal": "Depósito",
-    "sistema": "Hardware / Impresión",
-    "estado": "Pendiente",
-    "prioridad": "Media",
-    "origen": "Mail",
-    "contacto": "cyossen@antoniazzihermanos.onmicrosoft.com",
-    "telIp": "",
-    "historial": [
-      {
-        "fecha": "2026-11-05T09:32:00.000Z",
-        "usuario": "Carlos Yossen",
-        "evento": "Pedido original - computadora depósito carteles Clientazo"
-      },
-      {
-        "fecha": "2026-11-06T09:46:07.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: Computadora depósito"
-      },
-      {
-        "fecha": "2026-11-06T04:58:01.130396Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1047 - pendiente revisión configuración impresión"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1044",
-    "fecha": "2026-10-27T15:25:00.000Z",
-    "titulo": "ALVEAR DAYS - 100% productos cargados 2 al 8-11",
-    "descripcion": "Javier Tuduri informa que quedó pasado el 100% de productos para Alvear Days del 2 al 8-11. Solicita que cuando esté archivo final cargado se envíe a Gabriel Ojeda y Juan Cruz Alda para pedido de mercadería con tiempo. Reenviado desde avera@ a carpeta Alvear.",
-    "solicitante": "Javier Tuduri",
-    "sucursal": "Central / Compras",
-    "sistema": "Presea / Ofertas",
-    "estado": "Pendiente",
-    "prioridad": "Media",
-    "origen": "Mail",
-    "contacto": "jtuduri@alvearsupermercados.com.ar",
-    "telIp": "",
-    "historial": [
-      {
-        "fecha": "2026-10-27T15:25:00.000Z",
-        "usuario": "Javier Tuduri",
-        "evento": "100% productos Alvear Days cargados"
-      },
-      {
-        "fecha": "2026-11-01T18:00:26.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: ALVEAR DAYS"
-      },
-      {
-        "fecha": "2026-11-01T13:01:13.621738Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1044 - pendiente archivo final"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1043",
-    "fecha": "2026-10-28T15:51:00.000Z",
-    "titulo": "Pedido de alta en sistema - Panadería Alvear",
-    "descripcion": "Solicitud de alta de productos: Proveedor Quality - Mangas descartables Parpen núm. 23 .... 50 unidades $35702.48 | Proveedor Disa higiene - Detergente neutro multipropósito 5 LTS $13013.79. Mail de Panadería Alvear a Sistemas y Catalogación. Pendiente de alta en Presea / Sistema.",
-    "solicitante": "Panadería Alvear",
-    "sucursal": "Panadería / Central",
-    "sistema": "Presea / Catalogación",
-    "estado": "Pendiente",
-    "prioridad": "Media",
-    "origen": "Mail",
-    "contacto": "panaderia@alvearsupermercados.com.ar",
-    "telIp": "",
-    "historial": [
-      {
-        "fecha": "2026-10-28T15:51:00.000Z",
-        "usuario": "Panadería Alvear",
-        "evento": "Pedido original - alta de 2 productos"
-      },
-      {
-        "fecha": "2026-11-01T17:16:08.000Z",
-        "usuario": "Ariel",
-        "evento": "Reenviado desde avera@ a Hotmail carpeta Alvear - RV: Pedido de alta en sistema"
-      },
-      {
-        "fecha": "2026-11-01T12:33:19.618788Z",
-        "usuario": "Ariel",
-        "evento": "Convertido en ticket ALV-1043 - pendiente alta en sistema"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1042",
-    "fecha": "2024-12-10T09:15:00.000Z",
-    "titulo": "S11 lento - Juan Alda",
-    "descripcion": "AOL tarda 3 min en abrir remitos. Sucursales S11 y S12. Posible lock base. Reportado por Juan Alda - track S11 S12 AOL.",
-    "solicitante": "Juan Alda",
-    "sucursal": "S11 / S12",
-    "sistema": "AOL",
-    "estado": "Descartado",
-    "prioridad": "Alta",
-    "origen": "WhatsApp",
-    "contacto": "Juan Alda - 11 5555 2011",
-    "telIp": "10.11.12.42 / 192.168.11.42",
-    "historial": [
-      {
-        "fecha": "2024-12-10T09:15:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Ticket creado en Bandeja Alvear - S11 S12 AOL"
-      },
-      {
-        "fecha": "2024-12-10T09:22:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Rastreo: validado lock en base AOL remitos S11/S12"
-      },
-      {
-        "fecha": "2026-11-01T20:28:48.271Z",
-        "usuario": "Ariel",
-        "evento": "Descartado/Borrado por Ariel - movido a papelera"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1038",
-    "fecha": "2024-12-09T16:40:00.000Z",
-    "titulo": "S10 caja 4 no cierra lote",
-    "descripcion": "Caja 4 Suc S10 no cierra lote Presea. Error POSManager transacción 1048. Requiere regeneración archivo cierre.",
-    "solicitante": "Caja S10",
-    "sucursal": "S10",
-    "sistema": "Presea",
-    "estado": "Descartado",
-    "prioridad": "Alta",
-    "origen": "Tel",
-    "contacto": "Encargado S10",
-    "telIp": "10.10.10.104",
-    "historial": [
-      {
-        "fecha": "2024-12-09T16:40:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Creado - caja 4 S10"
-      },
-      {
-        "fecha": "2024-12-09T17:05:00.000Z",
-        "usuario": "Ariel",
-        "evento": "En Proceso - revisando log POSManager"
-      },
-      {
-        "fecha": "2026-11-01T20:28:03.857Z",
-        "usuario": "Ariel",
-        "evento": "Descartado/Borrado por Ariel - movido a papelera"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1040",
-    "fecha": "2024-12-09T11:20:00.000Z",
-    "titulo": "Presea precios desactualizados S05",
-    "descripcion": "Presea no actualiza precios desde central. Suc S05, S06. Transmisión pendiente, revisar generación archivo.",
-    "solicitante": "Gerencia",
-    "sucursal": "S05 / S06",
-    "sistema": "Presea",
-    "estado": "Descartado",
-    "prioridad": "Media",
-    "origen": "Mail",
-    "contacto": "gerencia@alvear.com",
-    "telIp": "10.5.0.1",
-    "historial": [
-      {
-        "fecha": "2024-12-09T11:20:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Creado - precios"
-      },
-      {
-        "fecha": "2024-12-09T12:00:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Estado cambiado a En Espera - esperando confirmación central"
-      },
-      {
-        "fecha": "2026-11-01T20:28:10.377Z",
-        "usuario": "Ariel",
-        "evento": "Descartado/Borrado por Ariel - movido a papelera"
-      }
-    ]
-  },
-  {
-    "id": "ALV-1039",
-    "fecha": "2024-12-08T14:05:00.000Z",
-    "titulo": "S11 impresora tickets atascada",
-    "descripcion": "Impresora Epson TM-T20 S11 atasco papel, driver reinstalado, sigue error. No es hardware básico - derivar solo si es Presea/AOL.",
-    "solicitante": "S11 Mostrador",
-    "sucursal": "S11",
-    "sistema": "Hardware Caja",
-    "estado": "Resuelto",
-    "prioridad": "Baja",
-    "origen": "Presencial",
-    "contacto": "S11",
-    "telIp": "10.11.0.20",
-    "historial": [
-      {
-        "fecha": "2024-12-08T14:05:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Creado S11 impresora"
-      },
-      {
-        "fecha": "2024-12-08T15:30:00.000Z",
-        "usuario": "Ariel",
-        "evento": "Resuelto - limpieza y test OK"
-      }
-    ]
-  },
-  {
-    "id": "ALV-2026-011",
-    "sucursal": "S11",
-    "titulo": "Sistema lento S11",
-    "descripcion": "Juan Alda reporta lentitud extrema en S11 Carga de precios demora > 40s. Afecta facturación.",
-    "contacto": "Juan Alda",
-    "origen": "Mail",
-    "telIp": "10.0.11.5 / 10.0.12.8",
-    "estado": "Pendiente",
-    "prioridad": "Baja",
-    "tipo": "Sistema",
-    "historial": [
-      {
-        "id": "h1",
-        "timestamp": "09:10",
-        "from": "Creado",
-        "to": "Pendiente",
-        "actor": "Bandeja",
-        "note": "Mail detectado"
-      },
-      {
-        "id": "h2",
-        "timestamp": "09:12",
-        "from": "Pendiente",
-        "to": "Pendiente",
-        "actor": "Sistema",
-        "note": "Prioridad Alta asignada"
-      },
-      {
-        "fecha": "2026-11-01T20:27:36.920Z",
-        "usuario": "Ariel",
-        "evento": "Editado por Ariel (modal): titulo: \"Sistema lento AOL\" -> \"Sistema lento S11\" | descripcion: \"Juan Alda reporta lentitud extrema en Pr\" -> \"Juan Alda reporta lentitud extrema en S1\""
-      }
-    ]
-  },
-  {
-    "id": "ALV-2026-010",
-    "sucursal": "S10",
-    "titulo": "S10 Caja 4 sin comunicación y no responde a comandos de reinicio",
-    "descripcion": "Se solucionó con el reinicio desde ctc, tienen que mantener el boton apretado hasta que lo hace.",
-    "contacto": "Encargado S10",
-    "origen": "Mail",
-    "telIp": "10.0.10.4 / 192.168.10.44",
-    "estado": "Resuelto",
-    "prioridad": "Alta",
-    "tipo": "Caja",
-    "historial": [
-      {
-        "id": "h3",
-        "timestamp": "08:45",
-        "from": "Creado",
-        "to": "Pendiente",
-        "actor": "Bandeja"
-      },
-      {
-        "id": "h4",
-        "timestamp": "10:15",
-        "from": "Pendiente",
-        "to": "En Proceso",
-        "actor": "Ariel",
-        "note": "CTC reinicio en curso"
-      },
-      {
-        "id": "h_1793560829456",
-        "timestamp": "04:20 p. m.",
-        "from": "En Proceso",
-        "to": "Resuelto",
-        "actor": "Ariel"
-      },
-      {
-        "fecha": "2026-11-01T20:29:24.760Z",
-        "usuario": "Ariel",
-        "evento": "Editado por Ariel (modal): titulo: \"Caja 4 sin comunicación y no responde a \" -> \"S10 Caja 4 sin comunicación y no respond\""
-      }
-    ]
-  },
-  {
-    "id": "ALV-2026-009",
-    "sucursal": "S14",
-    "titulo": "S14 Caja 2 no imprime tickets",
-    "descripcion": "Impresora térmica Epson TM-T20 sin respuesta. Luz roja parpadeante. Rollos OK.",
-    "contacto": "Caja 2 S14",
-    "origen": "Whatsapp",
-    "telIp": "10.0.14.2",
-    "estado": "Resuelto",
-    "prioridad": "Media",
-    "tipo": "Impresora",
-    "historial": [
-      {
-        "id": "h8",
-        "timestamp": "09:45",
-        "from": "Creado",
-        "to": "Pendiente",
-        "actor": "Whatsapp Bot"
-      },
-      {
-        "fecha": "2026-11-01T20:26:31.166Z",
-        "usuario": "Ariel",
-        "evento": "Estado cambiado a Resuelto por Ariel"
-      }
-    ]
-  }
-]
+{
+  "exportado": "2026-11-10T14:18:54.499Z",
+  "version": "V11",
+  "total": 15,
+  "tickets": [
+    {
+      "id": "ALV-2026-1058",
+      "status": "Pendiente",
+      "title": "Suc 9 y Suc 14 no podían operar con promo NFC Banco Santa Fe - Sábado 7-11",
+      "branch": "S09 / S14",
+      "system": "Presea / NFC Banco Santa Fe / Lapos",
+      "origin": "Llamada Celular Guardia",
+      "requester": "Suc. 9 y Suc. 14",
+      "priority": "Crítica",
+      "description": "Sábado 7-11 por la mañana reportan desde Suc 9 y Suc 14 que no podían operar con promoción por NFC con Banco Santa Fe, ni por caja ni Lapos. Me comuniqué con S11 y Rosana para corroborar porque en S11 sí se podía. También me comuniqué con Sabrina. Todo lo que respecta a enlaces y demás procedimientos funcionaba OK.",
+      "history": [
+        {
+          "date": "10/11, 11:18 a. m.",
+          "text": "Ticket ingresado desde llamada de guardia."
+        }
+      ]
+    },
+    {
+      "id": "ALV-2026-1057",
+      "status": "Resuelto",
+      "title": "Suc 9 sin enlace con Clientazo - Viernes 6-11 16:30",
+      "branch": "S09",
+      "system": "Clientazo / Enlace",
+      "origin": "Llamada Celular Guardia",
+      "requester": "Suc. 9 - Supervisora",
+      "priority": "Alta",
+      "description": "Viernes 6-11 16:30 hs Suc 9 reporta no tener enlace con Clientazo. Se hacen pruebas técnicas y se corroboran enlaces, pero todo está OK. La supervisora dice que se había solucionado, pero no podía avisar porque estaba sola.",
+      "history": [
+        {
+          "date": "10/11, 11:18 a. m.",
+          "text": "Verificación de enlaces OK. Sucursal confirma que se restableció."
+        }
+      ]
+    },
+    {
+      "id": "ALV-1048",
+      "status": "Resuelto",
+      "title": "LENTITUD - Computadora de Escritorio - Tomas Andrada",
+      "branch": "Central / Oficina",
+      "system": "Hardware / PC Escritorio",
+      "origin": "Mail",
+      "requester": "Tomas Andrada",
+      "priority": "Media",
+      "description": "Resuelto 06/11: Chrome 21 pestañas consumiendo 2,2 GB RAM. Equipo i5-8400T, SSD 240 GB (106 GB libres), RAM ampliada a 12 GB. Se liberaron procesos. Recomendado cerrar pestañas y reiniciar 1 vez al día.",
+      "history": [
+        {
+          "date": "10/11, 11:18 a. m.",
+          "text": "RAM ampliada a 12 GB y procesos liberados."
+        }
+      ]
+    },
+    {
+      "id": "ALV-1045",
+      "status": "Resuelto",
+      "title": "SOLICITUD DE TICKET 192708 - Suc. Alvear - $78.641,98",
+      "branch": "S01 Alvear",
+      "system": "Presea / Ticket",
+      "origin": "Mail",
+      "requester": "Suc. Alvear - Florencia",
+      "priority": "Media",
+      "description": "Ticket 192708 del 08/10/26, caja 6 PV 233, cajero BEILIS SOLANGE, cortado como transferencia.",
+      "history": []
+    },
+    {
+      "id": "ALV-1046",
+      "status": "Resuelto",
+      "title": "CLAVE - Cajero Ramirez Camila - Recoleta - reingreso",
+      "branch": "S11 Recoleta",
+      "system": "Presea / Cajeros",
+      "origin": "Mail",
+      "requester": "Suc. Recoleta - Jorgelina",
+      "priority": "Media",
+      "description": "Clave de cajero para RAMIREZ CAMILA, reingreso.",
+      "history": []
+    },
+    {
+      "id": "ALV-1047",
+      "status": "Resuelto",
+      "title": "Computadora depósito - no imprime carteles Clientazo",
+      "branch": "Depósito",
+      "system": "Hardware / Impresión",
+      "origin": "Mail",
+      "requester": "Carlos Yossen",
+      "priority": "Baja",
+      "description": "Carteles Clientazo salen mal configurados en depósito, en oficina bien.",
+      "history": []
+    },
+    {
+      "id": "ALV-1044",
+      "status": "Resuelto",
+      "title": "ALVEAR DAYS - 100% productos cargados 2 al 8-11",
+      "branch": "Central",
+      "system": "Presea",
+      "origin": "Mail",
+      "requester": "Javier Tuduri",
+      "priority": "Baja",
+      "description": "100% productos Alvear Days cargados.",
+      "history": []
+    },
+    {
+      "id": "ALV-1043",
+      "status": "Resuelto",
+      "title": "Pedido de alta en sistema - Panadería Alvear",
+      "branch": "Panadería",
+      "system": "Presea",
+      "origin": "Mail",
+      "requester": "Panadería Alvear",
+      "priority": "Baja",
+      "description": "Alta de 2 productos.",
+      "history": []
+    },
+    {
+      "id": "ALV-1042",
+      "status": "Descartado",
+      "title": "S11 lento - Juan Alda",
+      "branch": "S11",
+      "system": "Hardware",
+      "origin": "Mensaje WA Guardia",
+      "requester": "Juan Alda",
+      "priority": "Baja",
+      "description": "Reporte de lentitud en S11.",
+      "history": [
+        {
+          "date": "10/11, 11:18 a. m.",
+          "text": "Descartado: sin evidencia / no reproducible al momento de la revisión."
+        }
+      ]
+    },
+    {
+      "id": "ALV-1038",
+      "status": "Descartado",
+      "title": "S10 caja 4 no cierra lote",
+      "branch": "S10",
+      "system": "Presea",
+      "origin": "Llamada Celular Guardia",
+      "requester": "Caja S10",
+      "priority": "Media",
+      "description": "Caja 4 de S10 con dificultad para cerrar lote.",
+      "history": []
+    },
+    {
+      "id": "ALV-1040",
+      "status": "Descartado",
+      "title": "Presea precios desactualizados S05",
+      "branch": "S05",
+      "system": "Presea",
+      "origin": "Mail",
+      "requester": "Gerencia",
+      "priority": "Media",
+      "description": "Reporte de precios desactualizados en Presea S05.",
+      "history": []
+    },
+    {
+      "id": "ALV-1039",
+      "status": "Resuelto",
+      "title": "S11 impresora tickets atascada",
+      "branch": "S11",
+      "system": "Hardware",
+      "origin": "Presencial",
+      "requester": "S11 Mostrador",
+      "priority": "Media",
+      "description": "Impresora de tickets atascada en mostrador S11.",
+      "history": []
+    },
+    {
+      "id": "ALV-2026-011",
+      "status": "Resuelto",
+      "title": "Sistema lento S11",
+      "branch": "S11",
+      "system": "Presea",
+      "origin": "Mail",
+      "requester": "Juan Alda",
+      "priority": "Media",
+      "description": "Sistema lento reportado en S11.",
+      "history": []
+    },
+    {
+      "id": "ALV-2026-010",
+      "status": "Resuelto",
+      "title": "S10 Caja 4 sin comunicación",
+      "branch": "S10",
+      "system": "Hardware",
+      "origin": "Mail",
+      "requester": "Encargado S10",
+      "priority": "Media",
+      "description": "Caja 4 de S10 sin comunicación.",
+      "history": []
+    },
+    {
+      "id": "ALV-2026-009",
+      "status": "Resuelto",
+      "title": "S14 Caja 2 no imprime tickets",
+      "branch": "S14",
+      "system": "Hardware",
+      "origin": "Mensaje WA Guardia",
+      "requester": "Caja 2 S14",
+      "priority": "Media",
+      "description": "Caja 2 de S14 no imprime tickets.",
+      "history": []
+    }
+  ]
+}
